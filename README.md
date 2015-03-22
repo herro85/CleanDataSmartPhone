@@ -5,7 +5,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The dataset includes the following files:
 =========================================
-tidydata.txt -  Tidy Data of Activity experiment.
+aggTidyReading.txt -  Tidy Data of Activity experiment.
 
 CookBook.md - Cook Book describing the columns of the data above.
 
