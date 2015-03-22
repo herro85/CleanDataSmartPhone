@@ -6,9 +6,13 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 The dataset includes the following files:
 =========================================
 tidydata.txt -  Tidy Data of Activity experiment.
+
 CookBook.md - Cook Book describing the columns of the data above.
+
 README.md - General description of project and files.
+
 run_analysis.R - R script executing the extraction and transformation of raw data into tidy data.
+
 
 Raw data source
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
